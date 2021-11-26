@@ -1,2 +1,2 @@
 # Breast-tumor-classification
-Classification of tumors found in breast with Random forest classifier and training of Algo for future predictions
+Classification of tumors found in breast with Random forest classifier and also for  future predictions
